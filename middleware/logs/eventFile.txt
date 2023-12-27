@@ -1,0 +1,239 @@
+06122023	13:17:17	393c5581-99e4-41ac-b88a-dcfe5d7b4f9b	GET	undefined	/
+06122023	13:17:17	be593894-63ba-4c4d-883a-54664ecf20f3	GET	undefined	/css/style.css
+06122023	13:17:20	ca5e8e12-d604-4f89-886f-45ad45b6180e	GET	undefined	/
+06122023	13:17:20	f5647cc1-329c-4db4-a120-35b693a46518	GET	undefined	/css/style.css
+06122023	13:23:04	373896a1-25c2-4512-9332-e2d92546485d	GET	undefined	/
+06122023	13:23:04	a9a867d6-af03-4272-af8d-979c3de4fed9	GET	undefined	/css/style.css
+06122023	14:04:43	5d64e7a4-b594-4080-955f-f109b74adedb	GET	undefined	/
+06122023	14:04:43	db7bd756-7443-4608-a38b-0a087ee13ddc	GET	undefined	/css/style.css
+06122023	15:24:42	8aa23d40-53be-4876-9a92-5a050e04bdb7	OPTIONS	https://www.google.com	/
+06122023	15:24:42	d52e8f37-ff42-48c5-9038-ff867bcab850	GET	https://www.google.com	/
+06122023	15:45:02	a604eb63-8d40-4b5c-8c60-ade7fb0e9946	GET	undefined	/
+06122023	15:45:02	fa4aee72-2e0b-43c1-85c1-5eb05b0926c3	GET	undefined	/css/style.css
+06122023	15:45:03	d8227ce1-7a77-4899-a420-3fdbe2e4b671	GET	undefined	/
+06122023	15:45:03	76208539-5c56-46c1-9f90-fbc529651490	GET	undefined	/css/style.css
+06122023	16:48:11	7d372734-010b-45c8-bd26-8aa86aade4ca	OPTIONS	https://www.google.com	/
+06122023	16:48:11	7c09f28a-b1e2-458d-8f0e-608379a0209a	GET	https://www.google.com	/
+06122023	16:48:43	792cb88e-66ef-4a19-aede-d45d8605234b	OPTIONS	https://www.google.com	/
+06122023	16:48:43	8af2f96f-8ab2-4a1b-9b44-2d05fdbba301	GET	https://www.google.com	/
+06122023	16:51:05	475c6468-8d61-4fae-b3d8-4baba82c0abf	OPTIONS	https://www.google.com	/
+06122023	16:51:05	71fc7fba-6b4e-4d8f-a42f-c2eb72e0d48b	GET	https://www.google.com	/
+06122023	16:51:36	b3a9592b-892e-4f79-a8c6-46cf8c23b2b9	OPTIONS	https://www.google.com	/
+06122023	16:51:36	cb8e9776-6c27-4c74-b952-d840090f31de	GET	https://www.google.com	/
+07122023	10:11:13	30c04aae-d964-4640-8e24-d25831c93f8d	OPTIONS	https://www.google.com	/
+07122023	10:11:13	94297816-8315-4899-a822-85dcc084d8e8	GET	https://www.google.com	/
+07122023	10:11:29	b56a500b-811a-42bc-bc6f-33f4d06f8a8e	OPTIONS	https://www.google.com	/
+07122023	10:11:29	9530daa5-f77f-4e75-8f27-10c59d1067b5	GET	https://www.google.com	/
+07122023	10:13:12	223c303a-56c8-43e7-bde4-8378a591c51a	OPTIONS	https://www.google.com	/
+07122023	10:13:13	c2e39aa9-ece4-4a6e-afd5-f6962adf929f	GET	https://www.google.com	/
+07122023	10:16:43	748ab1a2-af29-403a-8bf6-85e489f82f85	GET	undefined	/css/style.css
+07122023	10:16:57	5979a5cc-208e-43a6-8eda-68dd6d3eb6d8	OPTIONS	https://www.google.com	/
+07122023	10:16:57	8983d13f-b2b7-4244-a0c9-fcb7c6a0309d	GET	https://www.google.com	/
+07122023	10:17:30	912b545a-fd68-4f5c-83cd-ff4b99749df2	OPTIONS	https://www.google.com	/
+07122023	10:17:30	5f789d38-092b-49bd-9f9e-47be5b9dd6be	GET	https://www.google.com	/
+07122023	10:39:54	56060045-38b9-4ced-aeef-ee570ddd03df	OPTIONS	https://www.google.com	/
+07122023	10:39:54	115c1545-62f6-4331-972d-880b2a1ebb67	GET	https://www.google.com	/
+07122023	10:40:33	3ffae717-7981-492a-8088-4a44e5905e93	OPTIONS	https://www.google.com	/
+07122023	10:40:33	7acb7140-5c74-4833-85a6-b448ec9576a6	GET	https://www.google.com	/
+07122023	10:41:51	3790a8d9-fba8-414f-af10-e48b29d5da48	OPTIONS	https://www.google.com	/
+07122023	10:41:51	a6219c33-efc9-4e2b-b801-8686451cf718	GET	https://www.google.com	/
+07122023	10:42:05	b220bd16-a902-4887-ac13-c5485e810fb2	OPTIONS	https://www.google.com	/
+07122023	10:42:05	50fdb3d7-4e12-4998-bd55-11cb5b3b0b3f	GET	https://www.google.com	/
+07122023	10:42:38	9004252e-5086-4ebe-b93c-32862daee6c4	OPTIONS	https://www.google.com	/
+07122023	10:42:38	22d47f16-ee72-417f-abe6-27a8a1ee5265	GET	https://www.google.com	/
+07122023	10:43:51	8e5eb54f-9d77-4de5-ba9f-c3784e7fd252	GET	undefined	/
+07122023	10:43:52	1592c3f6-7789-4b20-ab7f-5b38afc6b931	GET	undefined	/css/style.css
+07122023	10:58:35	6bfb6c35-7503-40f5-b133-c02fa8055906	GET	undefined	/
+07122023	10:58:35	f371c383-2337-4d1c-bd91-6013ada0dfe0	GET	undefined	/css/style.css
+07122023	10:58:54	acec17d0-6bdf-433e-829f-4cb7914881d5	GET	undefined	/
+07122023	10:58:54	63df2d01-12cf-4900-bf86-3ce595236a8f	GET	undefined	/css/style.css
+07122023	10:58:55	80f36f4e-3801-4012-a21b-863123213c00	GET	undefined	/
+07122023	10:58:55	76c1df25-5139-4678-ba60-0f15c4c9395d	GET	undefined	/css/style.css
+07122023	10:58:57	ddc3cf6a-3f05-496b-906b-2c0c3997b20d	GET	undefined	/
+07122023	10:58:57	65465c2a-3e63-4a39-a0d9-9d4803e9c168	GET	undefined	/css/style.css
+07122023	11:00:09	3c80d1f5-afea-4533-9f58-9c23de5c8719	GET	undefined	/
+07122023	11:00:09	c721aacd-60c2-4cb0-a4dc-55800063d0b0	Error: Not allowed by CORS
+07122023	11:01:35	277abf43-ee34-4bbf-9a18-60f3375e81b5	GET	undefined	/
+07122023	11:01:35	7dac7110-0283-4bac-b798-1346415ce165	GET	undefined	/css/style.css
+07122023	11:01:49	5a17731e-6260-4686-ac9d-39ababacb2a1	GET	undefined	/css/style.css
+07122023	12:02:51	4322dd91-afb2-48c4-899d-3bae5f394315	GET	undefined	/
+07122023	12:02:51	01d3ef9d-9be3-47eb-bdfc-586d67cf28b9	GET	undefined	/css/style.css
+07122023	12:02:58	25bcfc5e-76ae-4608-95c5-51015ab33008	GET	undefined	/subdir/
+07122023	12:06:37	efa94499-178a-498c-b415-5fc6fc159d35	GET	undefined	/subdir/
+07122023	12:06:37	ded785b5-b3e7-4ac9-8a1b-7e1295c86138	GET	undefined	/subdir/css/style.css
+07122023	12:06:37	72566777-0b6d-49d6-83d4-63fa6b5c5e7f	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:06:38	2357d296-e25b-4c88-8789-fc0801a2602a	GET	undefined	/subdir/
+07122023	12:06:38	56d5afe2-4a44-43a8-918b-a2a19727f75a	GET	undefined	/subdir/css/style.css
+07122023	12:06:38	874b0e9d-a8dc-43f1-8686-96e0391a526c	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:08:09	ca1d5663-47fd-40f7-bcd2-0f0a4acbf8e5	GET	undefined	/subdir/
+07122023	12:08:09	501384bf-db06-4dbb-b7d0-8be06c7a0c5f	GET	undefined	/subdir/.../css/style.css
+07122023	12:08:09	4761d90e-a356-4d19-be30-01952dc50099	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:08:10	15444820-5f9f-49d4-ba01-bc3606d0e12d	GET	undefined	/subdir/
+07122023	12:08:10	c65910cf-22cf-4f92-8e63-fc18cdb6530e	GET	undefined	/subdir/.../css/style.css
+07122023	12:08:10	3a365456-50d6-4ff4-8529-3930ab846d0e	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:08:23	c321cd84-ea16-4f39-8506-eb063d8cadb6	GET	undefined	/subdir/
+07122023	12:08:23	fe5864b3-9d23-4062-8485-0ca1c1cff604	GET	undefined	/css/style.css
+07122023	12:17:50	4c2e9f76-b623-4a29-bc2f-4a35622e114b	GET	undefined	/subdir/test
+07122023	12:17:50	b52eacdc-0843-4c1a-880f-3383c9d7ebf1	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:18:16	12e81ebb-2a81-435c-ba71-2ed27488dc94	GET	undefined	/subdir/test.html
+07122023	12:18:16	85161b19-a6af-4275-92ba-61badff8699b	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:18:31	96eb0ec5-348d-4678-823c-5db562c4fdd5	GET	undefined	/subdir/test.html
+07122023	12:18:31	2cc95c58-4efe-41f9-8ce7-5de18dbbb45b	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:18:32	0e4fb55f-05f7-46fc-bda6-9caa3091785d	GET	undefined	/subdir/test.html
+07122023	12:18:32	2e6d7771-724b-4a11-a689-221353f9fe2b	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:18:45	438288a4-0d32-4847-b2f2-508927cbaefb	GET	undefined	/subdir/
+07122023	12:18:45	d357508f-077b-402a-9e11-0d6a51a8db78	GET	undefined	/css/style.css
+07122023	12:18:59	e85a433d-9b33-4d85-a33b-d60d31e521e2	GET	undefined	/subdir/index
+07122023	12:18:59	01bad263-945c-4c94-852b-c0b5902fe15d	GET	undefined	/css/style.css
+07122023	12:19:12	f16f5d98-0c66-47fb-97ac-0ac7ac810a56	GET	undefined	/subdir/
+07122023	12:19:12	11248e42-4e0b-49da-a65c-ca7d3dc5f007	GET	undefined	/css/style.css
+07122023	12:19:14	77d14148-3ce7-4d2c-b3b6-967fdc40f65e	GET	undefined	/subdir/test
+07122023	12:19:14	e824ed62-2a7c-4577-8f5c-b0910c6e9750	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:22:16	eff30ae4-5085-4430-bf2d-19148d83d8fd	GET	undefined	/subdir/test.html
+07122023	12:22:16	22322638-d1df-492a-be3b-c9c0b8074afa	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:22:26	d8ed5254-8930-4b64-bfa8-45dd866daa51	GET	undefined	/subdir/subdir/test.html
+07122023	12:22:26	7d619de4-df50-44fd-a023-8996ed6c52fb	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:22:45	df40d8b5-c1d3-4624-8fd8-789d95d6ea7b	GET	undefined	/test.html
+07122023	12:22:45	a56145e6-6288-429a-8a40-bc27511322a3	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:22:54	594d4e8c-fb45-4a18-a48c-313f9864f8fa	GET	undefined	/subdir/test.html
+07122023	12:22:54	33c02e4d-9129-407c-8d6b-e794baadfc59	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:23:02	39f75a1b-6a85-4f41-a770-8c24ae2d659d	GET	undefined	/subdir/
+07122023	12:23:02	59ec66da-9fa5-4f48-ab1a-cf3feb18c933	GET	undefined	/css/style.css
+07122023	12:23:10	58b4b032-f139-4330-b804-9c55cc6d4303	GET	undefined	/subdir/test/
+07122023	12:23:10	62359d63-b051-40ae-9c08-1c7e6ae5adc6	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:23:14	6a1ccf4a-930b-4839-8452-0d47edff1f81	GET	undefined	/subdir/test
+07122023	12:23:14	2f1e2003-5089-4402-a844-ec9bec04f728	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:23:33	abab1924-af09-459a-8c1b-c0026019db8e	GET	undefined	/subdir/test
+07122023	12:23:33	af98bf1a-1014-464d-99ac-448065f5f068	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:23:34	5cb9feb9-2695-4451-b7bb-569af97df24e	GET	undefined	/subdir/test
+07122023	12:23:34	9311401e-8aa0-4d8c-9dfa-5703d694fbe1	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:23:39	3bf4efdc-d8dc-47bb-86e6-02ec6f8f734b	GET	undefined	/subdir/test.html
+07122023	12:23:39	a41376cd-9734-4aa7-b2b0-442c0d5159c3	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:23:39	4469c6b5-f971-4333-ac29-6430f7e6ab63	GET	undefined	/subdir/test.html
+07122023	12:23:39	70e744e0-0bd2-4a9f-b651-ca4bc8c8ddd3	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:24:17	fb8b0556-0242-4e74-9e72-eb8257f125a3	GET	undefined	/subdir/test
+07122023	12:24:17	722c6776-ad6f-45a4-ab69-9249cc1a5c22	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:24:17	2a751f73-290d-44c5-a89c-e68095cf623d	GET	undefined	/subdir/
+07122023	12:24:17	a099f5b0-97e6-4971-83dc-6e4c93b1ff4a	GET	undefined	/css/style.css
+07122023	12:29:11	7ac4d704-53a0-4cc1-8154-770105026b5d	GET	undefined	/subdir/test
+07122023	12:29:15	f2628eb2-21d4-4264-a633-de55e9e07755	GET	undefined	/subdir/test.html
+07122023	12:32:22	f6763f0f-900d-465e-ab83-fe625c31d5ed	GET	undefined	/subdir/test
+07122023	12:32:23	18b8ea27-54c5-47e3-a2d7-013d6ed18203	GET	undefined	/subdir/
+07122023	12:32:23	d75f4b69-c1e1-415b-b937-0882a41678c6	GET	undefined	/css/style.css
+07122023	12:32:24	6a9943cc-9e69-4170-a756-b445abb97c0e	GET	undefined	/
+07122023	12:32:24	7302a20a-a944-41af-beff-980b39b114d1	GET	undefined	/css/style.css
+07122023	12:32:42	aa6eb303-761f-433f-8625-5718dd338266	GET	undefined	/
+07122023	12:32:43	ee6f383d-a6ad-43bf-a370-385681a9b3e3	GET	undefined	/css/style.css
+07122023	12:32:56	c02e2a74-11e1-4b70-9f6a-d9f027a77712	GET	undefined	/subdir/
+07122023	12:32:56	0139f36c-94de-4293-a7c1-e9124cbcc7aa	GET	undefined	/css/style.css
+07122023	12:32:59	588b88b5-010a-4230-81f4-9ecccec019d5	GET	undefined	/subdir/
+07122023	12:32:59	0840533a-79da-4e39-8991-871e4a8ec000	GET	undefined	/css/style.css
+07122023	12:33:03	acd1f3e3-6c9d-4da3-ad48-c2f5552c8d93	GET	undefined	/subdir/test
+07122023	12:33:08	0c4b88c1-92ca-4a5d-a55c-e9b71a9f6262	GET	undefined	/subdir/
+07122023	12:33:08	25b8d9df-c08b-4bfd-b10f-5ac785c50782	GET	undefined	/css/style.css
+07122023	12:33:09	58e51b0d-091e-4fcd-afb0-ca6d07e86fe3	GET	undefined	/
+07122023	12:33:09	6be7d23c-db25-4035-9326-48b64d452764	GET	undefined	/css/style.css
+07122023	12:33:16	c0b71e26-f5a1-497d-8bfd-05887596ed01	GET	undefined	/test
+07122023	12:33:25	5344fb3a-34cb-4819-b5ed-6b5c82fa84f1	GET	undefined	/test
+07122023	12:33:27	1399e003-6e61-4813-aecc-2785e37a8a72	GET	undefined	/test
+07122023	12:33:36	354a5568-5692-4bac-82bd-91ce570c8ffc	GET	undefined	/test
+07122023	12:33:36	2316c256-78a9-4ad2-a545-e105c8d35b8f	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	12:33:42	ecd1b704-e1d9-4ec5-a511-09169bf93db4	GET	undefined	/new-page.html
+07122023	12:33:42	3da18364-a7a1-458a-8398-2e66a48df3a1	GET	undefined	/img/task%20CSS.png
+07122023	12:33:42	6cf1b94f-d25f-4033-93ce-1591fdd1b735	GET	undefined	/css/style.css
+07122023	12:33:49	b739792d-2b27-423a-bb65-08dbef9019e6	GET	undefined	/old-page.html
+07122023	12:33:49	3c67d5ac-43d3-4fcd-a615-dbfa6480da72	GET	undefined	/new-page.html
+07122023	12:33:49	3ca31d1b-fd7a-46b7-ba31-65a27c27e80a	GET	undefined	/css/style.css
+07122023	12:33:49	b89702d8-f61f-430d-a579-02e9095951fd	GET	undefined	/img/task%20CSS.png
+07122023	12:33:56	7bb9da10-2a1f-4e12-9440-1a081e1fadbc	GET	undefined	/
+07122023	12:33:57	f4a8a56b-c0e7-4d28-ae1e-6f0f1aeb7382	GET	undefined	/css/style.css
+07122023	15:18:31	60833ba8-0c5a-4074-93d4-3a0830ac7ae0	GET	undefined	/test
+07122023	15:18:31	134c09f3-b993-4e9a-bc88-6b6ce2f925b2	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	15:18:38	50db3c0d-855e-49d0-b778-d7ea3c1dfa85	GET	undefined	/subdir/test
+07122023	15:18:43	4dcde0dd-8cd0-4861-b146-6047dd19b9d0	GET	undefined	/subdir/test/dfd
+07122023	15:18:43	7f76d014-8e61-4140-9cf5-b9f3d13f79b8	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	15:19:33	67a31a4c-b0f3-4c1e-beb6-36cf1a8478d3	GET	undefined	/subdir/test/dfd
+07122023	15:19:33	ee4045f2-2018-4b3a-83e1-db27283d1f88	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	15:19:34	52f288db-48c7-46b0-bdbb-e3c30f717a9e	GET	undefined	/subdir/test/dfd
+07122023	15:19:34	61af4f02-52f5-4a54-b6c4-a27f93f6b87a	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	15:19:35	3133df07-8c0c-4ef8-8259-23d66a510e15	GET	undefined	/subdir/test/dfd
+07122023	15:19:35	944f1094-9921-4239-a27a-c816e14d3b55	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	15:19:54	ad820171-8b64-41e2-ada4-adb7debdf2bd	GET	undefined	/subdir/test/dfd
+07122023	15:19:54	0267ed95-a6b9-436f-bb1a-9580ac806a07	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	15:19:55	85a6e7b1-b176-4f79-84e3-e6841a678caf	GET	undefined	/subdir/test/dfd
+07122023	15:19:55	e9d12b5e-f5cd-4a92-859c-958ca4808a5e	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	15:20:34	ba86dc2e-218d-40a5-a83c-3ac84cc00849	GET	undefined	/subdir/test/dfd
+07122023	15:20:34	6000ea3f-4dde-4898-8040-9745387c3733	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	15:20:35	e2f7ebd5-61b9-4166-b614-f7c98a23873f	GET	undefined	/subdir/test/dfd
+07122023	15:20:35	07460577-baff-4af4-90ea-82e0b202709c	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	15:20:37	f934fe8a-24bd-4f0f-9a38-f66aa1a66339	GET	undefined	/subdir/test/dfd
+07122023	15:20:37	f784fd2f-39fd-45ea-bbbf-0cd834bf9918	Error: ENOENT: no such file or directory, stat '/Users/karanrajmokan/BFX/Learnings/Node_JS_FC/views,/404.html'
+07122023	15:22:47	6c5250a5-b14c-43b7-a143-89a7a330c062	GET	undefined	/subdir/test/
+07122023	17:55:50	fb819438-a8a0-4f6e-90aa-0cd7ea44187a	GET	undefined	/subdir/test
+07122023	17:55:51	cd6cd3be-0d4a-452b-b6ca-8ac3e7ace563	GET	undefined	/subdir/
+07122023	17:55:51	7b5917a5-ab62-4ca7-ac0f-e6bf53411b6c	GET	undefined	/css/style.css
+07122023	17:55:53	ebcc2d91-31f5-4b99-9cf1-e87f5ab75789	GET	undefined	/
+07122023	17:55:53	0bdacf20-8ec2-4761-bf6b-f8ae9b8d86a8	GET	undefined	/css/style.css
+08122023	10:28:01	8bc9957d-7377-4754-835f-b4edc564d285	GET	undefined	/employees
+08122023	10:31:09	0696f19f-1ea5-4221-bfa0-5fce02e6edb8	GET	undefined	/employees
+08122023	10:33:06	fdcdeae0-635f-420d-9ad0-09c78ee44071	GET	undefined	/employees
+08122023	10:34:05	01daa829-00c2-4097-8d3e-f85d3ca7a4c8	GET	undefined	/employees/2
+08122023	10:34:13	1e4bf2dc-6e1d-4bb8-adb3-7b8d5227f9c3	GET	undefined	/employees/3
+08122023	10:34:24	e651960d-f306-47e0-948b-d1ee847cba21	GET	undefined	/employees/350
+08122023	10:35:28	0d6888ed-dbf4-4ed7-b768-a1b73813e137	GET	undefined	/employees/350
+08122023	10:35:30	e308735e-4450-4e4e-8aec-f36b6c90e63a	GET	undefined	/employees/350
+08122023	10:35:31	87e5d7a8-db33-4208-84c6-e1997ae6babf	GET	undefined	/employees/350
+08122023	10:35:38	aa281287-c317-41e4-a35a-c955050b9890	GET	undefined	/employees/350
+08122023	10:36:01	11cf5971-7779-4f1c-a824-f8e6b6cb2e3f	GET	undefined	/employees/
+08122023	10:36:28	1feb7956-974c-4bca-8f7f-d3947d8bcda8	GET	undefined	/employees/1
+08122023	10:45:50	518376a7-f70d-4805-b867-e66b4451fafb	POST	undefined	/employees/
+08122023	10:46:22	a434c2d7-2a8e-4de9-bf20-3f843f9c1409	POST	undefined	/employees/
+08122023	10:47:09	2a8a6050-1776-4e76-89a3-9b0c6f2631be	POST	undefined	/employees/
+08122023	10:47:31	0bcd0358-64cd-47ad-8b97-844a6645e305	GET	undefined	/employees/
+08122023	10:47:46	244b63b0-80cb-4b6c-97f3-668b9aae5c39	POST	undefined	/employees/
+11122023	10:37:40	8a78d61d-35d0-47b6-84ad-324916bb1c23	GET	undefined	/employees/
+11122023	10:38:01	ed7f62b4-29dd-424c-9d00-0a657b15dc2d	GET	undefined	/employees/
+11122023	10:38:06	dbf4c1b1-3ef8-4f62-b9f8-90437c3b5fa5	GET	undefined	/employees/
+11122023	10:38:14	c93d36d0-1178-485a-8661-9d70793b5e77	POST	undefined	/employees/
+11122023	10:53:01	b2762520-f3f7-4151-9dec-a79f804fcf42	POST	undefined	/employees/
+11122023	10:54:41	c82c96fc-7ba9-4e0f-99e3-2f9a9f6d41c7	POST	undefined	/employees/
+11122023	10:56:07	c55c0a46-c289-4403-8ff3-39965b766edc	POST	undefined	/employees/
+11122023	10:56:26	5c2372af-9933-423f-813d-a0120e732417	POST	undefined	/employees/
+11122023	11:12:29	4d9e41f2-57a5-4ccf-a27d-64adc9a1336d	GET	undefined	/employees/2
+11122023	11:12:34	c878c67d-6ac7-41c8-8b16-d680b4f36214	GET	undefined	/employees/3
+11122023	11:20:10	5e0d2c34-7883-4912-8cd5-b4bbbcc1219f	POST	undefined	/employees/
+11122023	11:20:21	9b22cfdf-30dc-40ef-b00b-d31d83ca745e	POST	undefined	/employees/
+11122023	11:30:07	279a6c60-eb0f-49af-8f80-3b8c6e5cc3bd	GET	undefined	/employees/
+11122023	11:30:11	16474613-cfd2-4577-bfd9-b52910c3dc70	POST	undefined	/employees/
+11122023	11:34:56	c68e6586-9f8c-4bed-965f-f089e066cced	POST	undefined	/employees/
+11122023	11:38:55	9c2c16ac-3df5-493e-b3e4-0964fccb27b7	GET	undefined	/employees/3
+11122023	11:39:34	5a3d1f84-0aa8-4aa0-b8ea-0c5e136955c1	POST	undefined	/employees/
+11122023	12:00:34	0c779bbc-c9df-4a16-be9d-8b39537539eb	POST	undefined	/employees/
+11122023	12:02:55	bb434054-7f68-49ec-a032-845dc5367f95	DELETE	undefined	/employees/
+11122023	12:03:05	2b529e68-faac-4943-809f-ad9ffcc95ea4	DELETE	undefined	/employees/
+11122023	12:05:05	6641e0e8-2f44-4c6b-b4d1-18e02cdb46f1	DELETE	undefined	/employees/
+11122023	12:22:46	76090522-a094-4a6a-86e7-30e1fdf55bf1	DELETE	undefined	/employees/
+11122023	12:22:51	2fd18f04-01a1-44d2-8343-a9d56f41418d	GET	undefined	/employees/
+11122023	12:23:06	96f00567-2aeb-41de-9fc3-ff8c676122a9	POST	undefined	/employees/
+11122023	12:23:16	13350aac-5dad-4acf-be78-0fe9af387ba8	DELETE	undefined	/employees/
+11122023	12:23:22	ea8b5518-514b-4de1-b81b-3903b4924149	GET	undefined	/employees/
+11122023	12:23:39	23c1f0bf-0c60-41e6-8878-f20bf5f64618	DELETE	undefined	/employees/
+11122023	12:23:56	7a99f3e2-d4c2-4d1c-be29-93ff1d4f7d20	GET	undefined	/employees/
+11122023	12:24:04	c4baad2c-4799-462f-b7eb-157b4274fd19	POST	undefined	/employees/
+11122023	12:24:11	8c94037d-f639-4ab5-95ed-8fa0a5173570	DELETE	undefined	/employees/
+11122023	12:29:16	2179c47d-1300-482a-9a7f-4498340827b8	GET	undefined	/employees/
+11122023	12:30:26	902041cd-e457-4261-b45a-faae418cd997	DELETE	undefined	/employees/
+11122023	12:30:35	4a9b47b5-278b-421f-97ce-5692cfe7da7c	DELETE	undefined	/employees/
+11122023	12:31:58	a98ec0f5-c761-40e2-a4ba-627dc9341e2f	POST	undefined	/employees/
+11122023	12:32:08	00e45eda-02c8-4a78-a23c-05574bdf129d	DELETE	undefined	/employees/
+11122023	12:32:13	7e7e3dd2-48d0-403c-8329-fc27ad34f05a	POST	undefined	/employees/
+11122023	12:32:37	f666350a-9189-4cc5-9e5a-c74230a8e4df	POST	undefined	/employees/
+11122023	12:32:48	911bf7ca-aeca-4554-b72f-c4f3da2a2f52	DELETE	undefined	/employees/
+11122023	12:59:41	56a5d134-b0b7-48f6-83b5-1dc484a60ee3	GET	undefined	/employees/3
+11122023	13:27:56	d5fbda8e-28ea-44cb-a953-066659798d2f	POST	undefined	/employees/
+11122023	13:28:26	9aecc117-2bbd-4d31-bba3-dab44c774140	GET	undefined	/employees/
+11122023	13:28:38	dbb5bc42-d5f1-45e1-9404-140db508ad18	POST	undefined	/employees/
+11122023	13:29:47	39329dc3-b2b7-4d08-8bbb-480ade1b800b	GET	undefined	/employees/
+11122023	13:29:51	efe0bdd9-5b27-4c5b-a9ec-153f32f5e0d4	POST	undefined	/employees/
+11122023	13:30:31	939e27ef-7ed5-4cf0-b23e-bf1a0097f9e0	POST	undefined	/employees/
+11122023	13:30:43	b323d6f1-c3e5-49a1-a390-ceabedb1fcd7	POST	undefined	/employees/
